@@ -1,0 +1,118 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="29.0.2">
+  <diagram name="Page-1" id="4AtE58SA-GHDptyXxB9D">
+    <mxGraphModel dx="2876" dy="1119" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="S6kCENj81RLPZd3VrJCw-1" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-800" y="560" as="sourcePoint" />
+            <mxPoint x="680" y="560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="S6kCENj81RLPZd3VrJCw-2" value="Миграция на современную архитектуру" style="triangle;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="680" y="400" width="250" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="S6kCENj81RLPZd3VrJCw-3" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="410" y="830" as="sourcePoint" />
+            <mxPoint x="530" y="560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="S6kCENj81RLPZd3VrJCw-4" value="Аппаратная часть (железо)" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="360" y="830" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="S6kCENj81RLPZd3VrJCw-5" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="90" y="760" as="sourcePoint" />
+            <mxPoint x="440" y="760" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="S6kCENj81RLPZd3VrJCw-6" value="Могут понадобиться дополнительные мощности, если будет принято решение оставаться на собственном железе" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="105" y="720" width="320" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="S6kCENj81RLPZd3VrJCw-7" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="140" y="640" as="sourcePoint" />
+            <mxPoint x="500" y="640" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="S6kCENj81RLPZd3VrJCw-8" value="Увеличение статьи расходов на инфраструктуру, если будет принято решение на переезд в облако" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="160" y="600" width="300" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="S6kCENj81RLPZd3VrJCw-9" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="260" as="sourcePoint" />
+            <mxPoint x="530" y="560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="S6kCENj81RLPZd3VrJCw-10" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="140" y="490" as="sourcePoint" />
+            <mxPoint x="500" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="S6kCENj81RLPZd3VrJCw-11" value="Миграция данных из файлов в нормальное хранилище (бд)" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="160" y="450" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="S6kCENj81RLPZd3VrJCw-12" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="150" y="360" as="sourcePoint" />
+            <mxPoint x="430" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="S6kCENj81RLPZd3VrJCw-13" value="Перелив файлов в объектное хранилище и организация связей с данными в бд" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="140" y="320" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="S6kCENj81RLPZd3VrJCw-14" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-110" y="250" as="sourcePoint" />
+            <mxPoint x="80" y="560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="S6kCENj81RLPZd3VrJCw-15" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-290" y="480" as="sourcePoint" />
+            <mxPoint x="30" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="S6kCENj81RLPZd3VrJCw-16" value="Разработка полностью новой ИТ структуры (фронт, бек и т.д.)" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-310" y="440" width="270" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="S6kCENj81RLPZd3VrJCw-17" value="Миграция исторических данных" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="310" y="220" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="S6kCENj81RLPZd3VrJCw-18" value="Разработка" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-180" y="210" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="S6kCENj81RLPZd3VrJCw-19" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-140" y="830" as="sourcePoint" />
+            <mxPoint x="80" y="560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="S6kCENj81RLPZd3VrJCw-20" value="Персонал" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-170" y="840" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="S6kCENj81RLPZd3VrJCw-22" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-280" y="640" as="sourcePoint" />
+            <mxPoint x="10" y="640" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="S6kCENj81RLPZd3VrJCw-23" value="Обучение персонала&amp;nbsp; использованию новой системы" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-250" y="600" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="S6kCENj81RLPZd3VrJCw-24" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-360" y="760" as="sourcePoint" />
+            <mxPoint x="-80" y="760" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="S6kCENj81RLPZd3VrJCw-25" value="Расщирение ИТ отдела (3 человека врятли вывезут)" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-300" y="720" width="210" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
